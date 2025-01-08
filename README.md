@@ -1,1 +1,1 @@
-# sql-challenge
+This is my completed Module 9 sql-challenge script and files. 
